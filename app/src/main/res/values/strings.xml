@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HiloAsyncTask</string>
+    <string name="user">Usuario</string>
+    <string name="passw">Clave</string>
+</resources>
